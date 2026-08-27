@@ -29,26 +29,3 @@ An end-to-end data analytics and predictive modeling project built using **R**, 
 * **Deliverables:** R Scripts, Word Reports (`.docx`), Presentation (`.pptx`)
 
 ---
-
-## 📂 Repository Structure
-```text
-├── Coffee Shop Sales.xlsx          # Raw POS Transaction Dataset
-├── coffee_clean.rds                # Cleaned & Winsorized R Data Object
-├── data_cleaning_analysis.R        # Week 1 Cleaning & Scaling Pipeline
-├── Week4_Final_Report.Rmd          # Master Markdown Report Source
-├── Week4_Final_Report.docx         # Compiled Capstone Word Deliverable
-├── Week4_Presentation.Rmd          # Master Presentation Source
-├── Week4_Presentation.pptx         # Editable PowerPoint Slide Deck
-├── Figures/                        # High-Resolution ggplot2 Visualizations
-└── README.md                       # Project Documentation
-
-### Step 3: Add a `.gitignore` File
-
-Create a file named **`.gitignore`** in your project folder and add:
-
-```text
-.Rhistory
-.RData
-.Rproj.user
-
-
